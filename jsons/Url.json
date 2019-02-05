@@ -1,0 +1,10 @@
+{
+  "values": [
+    {
+      "type": "text",
+      "value": "https://credapi.credify.tech/api/loanapp/v1/states",
+      "key": "url",
+      "enabled": true
+    }
+  ]
+}

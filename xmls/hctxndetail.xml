@@ -1,0 +1,16 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mer="http://www.mercurypay.com">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <mer:CAllDetail>
+         <!--MerchatIDs: 778825001 (web) or 019588466313922 (terminal swipe) or 023120578416030 (GiftCard) -->
+         <mer:merchant>778825001</mer:merchant>
+         <!-- WS password for test is "xyz" -->
+         <mer:pw>xyz</mer:pw>
+         <!-- Test Value invoice:288302322878 -->
+         <mer:invoice>{{basketId}}</mer:invoice>
+         <!-- Test Value startdate/enddate:2018-03-08 -->
+         <mer:startdate>{{datestamp}}</mer:startdate>
+         <mer:enddate>{{datestamp}}</mer:enddate>
+      </mer:CAllDetail>
+   </soapenv:Body>
+</soapenv:Envelope>

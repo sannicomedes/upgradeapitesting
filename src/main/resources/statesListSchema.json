@@ -1,0 +1,1118 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "states": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "abbreviation": {
+              "type": "string"
+            },
+            "minLoanAmount": {
+              "type": "number"
+            },
+            "minAge": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "label",
+            "abbreviation",
+            "minLoanAmount",
+            "minAge"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "states"
+  ]
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Upgrade QA Coding API" verbose="2">
+
+<!--  Tests -->
+	<test name="Retrieve State List and Total Number of Names">
+		<classes>
+			<class name="com.upgrade.UpgradeAPITesting.tests.VerifyAllStateNamesAreValidTest"/>
+		</classes>
+	</test>
+	<test name="Only One State with a minimun Age of 19">
+		<classes>
+			<class name="com.upgrade.UpgradeAPITesting.tests.VerifyMinAgeTest"/>
+		</classes>
+	</test>
+	<test name="Only One State with minimun Loan Amount">
+		<classes>
+			<class name="com.upgrade.UpgradeAPITesting.tests.VerifyMinLoanTest"/>
+		</classes>
+	</test>
+</suite> <!-- Suite -->

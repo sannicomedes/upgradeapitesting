@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [Upgrade QA Coding API]">
+  <test thread-count="5" verbose="2" name="Retrieve State List and Total Number of Names(failed)">
+    <classes>
+      <class name="com.upgrade.UpgradeAPITesting.tests.VerifyAllStateNamesAreValidTest">
+        <methods>
+          <include name="checkAllStateNamesAreValid"/>
+        </methods>
+      </class> <!-- com.upgrade.UpgradeAPITesting.tests.VerifyAllStateNamesAreValidTest -->
+    </classes>
+  </test> <!-- Retrieve State List and Total Number of Names(failed) -->
+</suite> <!-- Failed suite [Upgrade QA Coding API] -->
