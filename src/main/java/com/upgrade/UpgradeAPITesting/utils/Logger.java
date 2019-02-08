@@ -3,11 +3,6 @@ package com.upgrade.UpgradeAPITesting.utils;
 import org.joda.time.DateTime;
 import org.testng.Reporter;
 
-/**
- * 
- * @author José Ramírez | Gustofb
- *Testng Reporterlog implementation
- */
 public class Logger {
 
 	private static final String DATEPATTERN = "MM-dd-yyyy HH:mm:ss ZZ";
